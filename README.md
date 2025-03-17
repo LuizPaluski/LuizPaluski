@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Paluski 🖐️
+## Olá! Eu sou o Luiz Gustavo Paluski 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_paluskii)
 
