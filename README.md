@@ -2,7 +2,6 @@
 
 <a href="https://instagram.com/luiz_paluskii" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
 
 ## Tecnologias que eu uso no meu dia
 
