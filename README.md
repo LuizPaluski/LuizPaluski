@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Gustavo de Lima Paluski 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_paluskii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiz_paluskii){:target="_blank"}
 
 ## Tecnologias que eu uso no meu dia
 
