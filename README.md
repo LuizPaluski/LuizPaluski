@@ -8,7 +8,7 @@
   <a href="https://instagram.com/luiz_paluskii" target="_blank">
     <img src="https://img.shields.io/badge/-@luiz__paluskii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:luiz.paluski@gmail.com" target="_blank">
+  <a href="luizgustavodelimapalauski@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-luiz.paluski@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
