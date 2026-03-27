@@ -72,3 +72,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPaluski&theme=tokyo-night&hide_border=true" />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizPaluski/LuizPaluski/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizPaluski/LuizPaluski/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LuizPaluski/LuizPaluski/output/github-snake.svg" />
+</picture>
